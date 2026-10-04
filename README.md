@@ -6,7 +6,7 @@ Every week I publish one Triton kernel benchmarked against PyTorch, including th
 
 ## Projects
 
-- **[Soulor AI](https://soulor-ai.vercel.app/)**: Soulor AI is an AI companion app with persistent memory and five relationship stages, from Stranger to Soulmate, plus a Simulation Mode that gives a panel of five AI perspectives on any situation. It runs on its own LoRA fine-tune of Qwen3-14B, served with vLLM on Modal.
+- **[Soulor AI](https://soulor.app/)**: Soulor AI is an AI companion app with persistent memory and five relationship stages, from Stranger to Soulmate, plus a Simulation Mode that gives a panel of five AI perspectives on any situation. It runs on its own LoRA fine-tune of Qwen3-14B, served with vLLM on Modal.
 - **[VNportal](https://vnportal.vercel.app/)**: VNportal is a browser-based vinyl and music platform: find a record in the MusicBrainz database, play it, mix it on two decks, and create with AI music tools — no install, no hardware, no Spotify Premium.
 
 ## Kernel write-ups
